@@ -89,15 +89,7 @@ button{cursor:pointer}
 
 <div class="cartBtn" onclick="toggleCart()">🛒<span id="cartCount">0</span></div>
 
-<div id="loginModal">
-<div>
-<h3>تسجيل الدخول</h3>
-<input id="u" placeholder="اسم المستخدم"><br>
-<input id="c" placeholder="رمز الدخول"><br>
-<input id="p" type="password" placeholder="كلمة المرور"><br>
-<button onclick="login()">دخول</button>
-</div>
-</div>
+
 
 <script>
 let products=[], cart=[];
