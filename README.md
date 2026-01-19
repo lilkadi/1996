@@ -56,7 +56,6 @@ button{cursor:pointer}
 
 <header>
 <h2>Chevrolet Site</h2>
-<button id="loginBtnTop" onclick="showLogin()">تسجيل الدخول</button>
 </header>
 
 <div class="banner-cars">
